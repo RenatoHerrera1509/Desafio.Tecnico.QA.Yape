@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Visual Studio 2022\Projects\Desafio.Tecnico.QA.Yape\TestRestFUll.Booker\Core\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\User\Documents\Visual Studio 2022\Projects\Desafio.Tecnico.QA.Yape\TestRestFUll.Booker\Core\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\User\Documents\Visual Studio 2022\Projects\Desafio.Tecnico.QA.Yape\TestRestFUll.Booker\Core\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\User\Documents\Visual Studio 2022\Projects\Desafio.Tecnico.QA.Yape\TestRestFUll.Booker\Core\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Visual Studio 2022\Projects\Desafio.Tecnico.QA.Yape\TestRestFUll.Booker\Core\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\Desafio.Tecnico.QA.Yape\TestRestFUll.Booker\Core\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2022\Projects\Desafio.Tecnico.QA.Yape\TestRestFUll.Booker\Core\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\Desafio.Tecnico.QA.Yape\TestRestFUll.Booker\Core\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\User\Documents\Visual Studio 2022\Projects\Desafio.Tecnico.QA.Yape\TestRestFUll.Booker\Core\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\User\Documents\Visual Studio 2022\Projects\Desafio.Tecnico.QA.Yape\TestRestFUll.Booker\Core\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\User\Documents\Visual Studio 2022\Projects\Desafio.Tecnico.QA.Yape\TestRestFUll.Booker\Core\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\User\Documents\Visual Studio 2022\Projects\Desafio.Tecnico.QA.Yape\TestRestFUll.Booker\Core\BusinessLogic\bin\Debug\net6.0\Models.dll
+C:\Users\User\Documents\Visual Studio 2022\Projects\Desafio.Tecnico.QA.Yape\TestRestFUll.Booker\Core\BusinessLogic\bin\Debug\net6.0\Models.pdb
+C:\Users\User\Documents\Visual Studio 2022\Projects\Desafio.Tecnico.QA.Yape\TestRestFUll.Booker\Core\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\Desafio.Tecnico.QA.Yape\TestRestFUll.Booker\Core\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
