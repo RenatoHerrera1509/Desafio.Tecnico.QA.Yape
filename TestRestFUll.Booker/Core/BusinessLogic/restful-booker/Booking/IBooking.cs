@@ -18,5 +18,6 @@ namespace BusinessLogic.restful_booker.Booking
         Task<ApiResponse<CreateBookingResponseDto>> CreateBookingAsync(CreateBookingRequestDto request);
         Task<ApiResponse<BookingDetailsResponseDto>> UpdateBookingAsync(UpdateBookingRequestDto request);
         Task<ApiResponse<BookingDetailsResponseDto>> PartialUpdateBookingAsync(PartialUpdateBookingRequestDto request);
+        Task<HttpResponseMessage> DeleteBookingAsync(int bookingId);
     }
 }

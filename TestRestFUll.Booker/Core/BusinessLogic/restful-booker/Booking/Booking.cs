@@ -97,5 +97,13 @@ namespace BusinessLogic.restful_booker.Booking
             var response = await _httpClient.PatchAsync($"{_bookingUrl}/{request.id}", content);
             return await HttpResponseHelper.CreateApiResponseAsync<BookingDetailsResponseDto>(response);
         }
+
+        public async Task<HttpResponseMessage> DeleteBookingAsync(int bookingId)
+        {
+            _token = await GetToken();
+            _httpClient.DefaultRequestHeaders.Add("Cookie", $"token={_token}");
+            var response = await _httpClient.DeleteAsync($"{_bookingUrl}/{bookingId}");
+            return response;
+        }
     }
 }
